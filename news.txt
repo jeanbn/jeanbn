@@ -1,4 +1,6 @@
 Apocalipse GameZ:
-Novo: Chat Global.
-Novo: Skins Alteradas
-Novo: Painel De Login Traduzido PT-BR
+Adicionado: Chat Global.
+Adicionado: Skins Alteradas.
+Adicionado: Painel De Login Traduzido PT-BR.
+Adicionado: Loading Screen.
+Adicionado: Painel e Skins Vip.
