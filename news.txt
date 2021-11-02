@@ -1,6 +1,6 @@
-Apocalipse GameZ:
+F.E.A.R DayZ:
+
+Adicionado: Novo Painel De Login.
+Alterado: Systema de Attachments
 Adicionado: Chat Global.
-Adicionado: Skins Alteradas.
-Adicionado: Painel De Login Traduzido PT-BR.
-Adicionado: Loading Screen.
-Adicionado: Painel e Skins Vip.
+Adicionado: Novas Armas.
