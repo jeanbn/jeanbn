@@ -1,6 +1,8 @@
-F.E.A.R DayZ:
-
+F.E.A.R DayZ V0.1:
+Adicionado: Systema de Skin de Armas Vip.
+Adicionado: Novos Veiculos.
+Bugs removidos.
 Adicionado: Novo Painel De Login.
-Alterado: Systema de Attachments
+Alterado: Systema de Attachments.
 Adicionado: Chat Global.
 Adicionado: Novas Armas.
