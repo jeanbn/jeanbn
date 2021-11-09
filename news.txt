@@ -1,4 +1,7 @@
-F.E.A.R DayZ V0.1:
+F.E.A.R DayZ V0.2:
+Adicionado: Systema de Clima Randomico
+Adicionado: Tag Vip Chat Global
+Adicionado: Systema de Vips
 Adicionado: Systema de Skin de Armas Vip.
 Adicionado: Novos Veiculos.
 Bugs removidos.
