@@ -1,11 +1,24 @@
-F.E.A.R DayZ V0.2:
-Adicionado: Systema de Clima Randomico
-Adicionado: Tag Vip Chat Global
-Adicionado: Systema de Vips
-Adicionado: Systema de Skin de Armas Vip.
-Adicionado: Novos Veiculos.
-Bugs removidos.
-Adicionado: Novo Painel De Login.
-Alterado: Systema de Attachments.
-Adicionado: Chat Global.
-Adicionado: Novas Armas.
+F.E.A.R DayZ
+
+Atualizaçoes V0.5:
+  Novo: Desligar Luzes Do Veiculo | Tecla: L
+  Novo: Velocimetro
+  Novo: Systema de HeadShot
+  Alterado: dano das armas
+  Alterado: tags do chat global
+  Novo: Mute no chat global
+  Novo: Diminuido Loot Rate das armas
+  Novo: Systema de Base Craft | Tecla: F6
+  Novo: Systema de Zumbis
+
+Atualizaçao V0.2:
+  Adicionado: Systema de Clima Randomico
+  Adicionado: Tag Vip Chat Global
+  Adicionado: Systema de Vips
+  Adicionado: Systema de Skin de Armas Vip.
+  Adicionado: Novos Veiculos.
+  Bugs removidos.
+  Adicionado: Novo Painel De Login.
+  Alterado: Systema de Attachments.
+  Adicionado: Chat Global.
+  Adicionado: Novas Armas.
