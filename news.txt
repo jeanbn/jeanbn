@@ -1,6 +1,13 @@
 F.E.A.R DayZ
 
-Atualizaçoes V0.5:
+Atualização V0.5.2:
+  Alterado Craft: Não é mais nescessario DIY 
+  Adicionado: Novos Veiculos
+  Alterado: Systema de spawn de veiuclos
+  Alterado: systema de Backups de Tendas e Veiculos
+
+
+Atualização V0.5:
   Novo: Desligar Luzes Do Veiculo | Tecla: L
   Novo: Velocimetro
   Novo: Systema de HeadShot
@@ -11,7 +18,7 @@ Atualizaçoes V0.5:
   Novo: Systema de Base Craft | Tecla: F6
   Novo: Systema de Zumbis
 
-Atualizaçao V0.2:
+Atualização V0.2:
   Adicionado: Systema de Clima Randomico
   Adicionado: Tag Vip Chat Global
   Adicionado: Systema de Vips
