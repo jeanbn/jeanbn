@@ -1,12 +1,13 @@
-F.E.A.R DayZ
+[DayZ] Ghost Project
 
-Atualização V05.3
-  Zombies com Drops de acordo a skin(Civil/Militar/etc...)
-  Animação para os animais
-  Bug no Drop dos zumbis removido
+Atualização V05.5
+   Spawn de Zombies alterado:
+     Zombies agora não spawnam mais proximos ao player!.
+     Zombies agora perseguem o player por mais tempo!.
 
-Atualização V0.5.2:
-  Alterado Craft: Não é mais nescessario DIY 
-  Adicionado: Novos Veiculos
-  Alterado: Systema de spawn de veiuclos
-  Alterado: systema de Backups de Tendas e Veiculos
+   Bussola:
+    Adicionada Bussola no topo da HUD para todos os players!
+
+  Bugs:
+    Corrigido Bug no registro, agora o player Spawna sem morrer!
+    Spawn voltou para os lugares corretos ao inves da Pos 0,0,0!
